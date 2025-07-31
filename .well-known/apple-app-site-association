@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "LWGJ5AW8H5.app.scoutkit",
+        "paths": [
+          "/location",
+          "/location/*"
+        ]
+      }
+    ]
+  }
+}
