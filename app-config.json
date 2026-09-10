@@ -1,6 +1,6 @@
 {
   "ios": {
-    "minimumVersion": "1.4.0",
+    "minimumVersion": "1.5.0",
     "latestVersion": "1.5.0",
     "forceUpdateMessage": "This version of ScoutKit is no longer supported. Please update to continue.",
     "appStoreURL": "https://apps.apple.com/app/id6742509896"
